@@ -1,0 +1,10 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "deltastimetravelmod:car"
+    },
+    "variants": {
+        "normal": {"model": "deltastimetravelmod:car"},
+        "inventory": {"model": "deltastimetravelmod:car"}
+    }
+}

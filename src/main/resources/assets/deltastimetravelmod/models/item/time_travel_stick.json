@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "deltastimetravelmod:items/time_travel_stick"
+    }
+}
